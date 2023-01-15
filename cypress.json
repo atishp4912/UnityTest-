@@ -1,0 +1,4 @@
+{
+    "testFiles": "**/*.{feature,features}",
+    "baseUrl":"https://demo.guru99.com/insurance/v1/"
+  }

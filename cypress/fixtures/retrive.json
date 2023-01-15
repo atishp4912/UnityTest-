@@ -1,0 +1,21 @@
+{
+    "tableData":[
+      
+        {
+            "field":"Registration",
+            "data":"MH12GJ5591"
+        },
+        {
+            "field":"Annual mileage",
+            "data":"200"
+        },
+        {
+            "field":"Estimated value",
+            "data":"20000"
+        },
+        {
+            "field":"Parking Location",
+            "data":"Public place"
+        }
+    ]
+}

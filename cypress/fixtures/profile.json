@@ -1,0 +1,26 @@
+{
+    "Title":"Mr",
+
+"Firstname":"Atish",
+
+"Surname":"Pawar",
+
+"Phone":"9823443989",
+
+"Dataofbirth":"1995/12/19",
+
+"LicenseType":"Provisional",
+
+"LicensePeriod":"1",
+
+"Occupation":"Engineer",
+
+"DriverHistory":"accident",
+
+"ADDRESS":{
+    "street":"Baner",
+    "city":"Pune",
+    "country":"India",
+    "pinCode":"411045"
+}
+}
